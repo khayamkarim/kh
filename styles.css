@@ -1,0 +1,41 @@
+
+*{
+    /* background-color: aqua; */
+    color: aliceblue;
+}
+#h1{
+    font-family: cursive;
+
+}
+.two img{
+    height: 200px;
+    margin-left: 73%;
+    margin-top: -170px;
+    border-radius: 400px;
+    box-shadow: 1px 2px 3px 2px ;
+}
+.par{
+    display: flex;
+}
+.main{
+    background-image: url(./images.jpg);
+    background-size: cover;
+    padding: 10px;
+}
+.list{
+    margin-top: -50px;
+}
+table{
+    /* border: 6px solid rgb(7, 6, 6); */
+    border-collapse: collapse;
+    border-radius: 20px;
+    
+    
+}
+span{
+    font-size: 18px;
+    font-family:inherit
+}
+.tar tr td {
+    font-size: 7px;
+}
